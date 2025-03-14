@@ -1,0 +1,14 @@
+/home/klaus/Testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator
+/home/klaus/Testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.deps.json
+/home/klaus/Testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.runtimeconfig.json
+/home/klaus/Testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.dll
+/home/klaus/Testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.pdb
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.AssemblyInfo.cs
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.dll
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/refint/StudentGradeCalculator.dll
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.pdb
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.genruntimeconfig.cache
+/home/klaus/Testing/StudentGradeCalculator/obj/Debug/net9.0/ref/StudentGradeCalculator.dll
