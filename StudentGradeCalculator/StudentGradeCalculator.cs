@@ -1,4 +1,5 @@
 ﻿﻿using System;
+using TheStudent;
 
 namespace StudentGradeCalculator
 {
@@ -61,23 +62,6 @@ namespace StudentGradeCalculator
             if (averageScore >= 60) return "4";
             if (averageScore >= 50) return "02";
             return "00";
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var calculator = new StudentGradeCalculator1();
-
-            int[] scores = { 10, 78, 92 };
-            double average = calculator.CalculateAverageScore(scores);
-            string passOrFail = calculator.DeterminePassOrFail(average);
-            string grade = calculator.CalculateGrade(average);
-
-            Console.WriteLine($"Average Score: {average}");
-            Console.WriteLine($"Result: {passOrFail}");
-            Console.WriteLine($"Grade: {grade}");
         }
     }
 }
