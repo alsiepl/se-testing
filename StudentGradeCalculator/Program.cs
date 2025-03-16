@@ -1,6 +1,7 @@
 using System;
 using TheStudent;
 using StudentGradeCalculator;
+using ExaminerNamespace;
 
 class Program
 {
@@ -16,18 +17,11 @@ class Program
         // Create Student instance and input scores
         Student student = new Student(numExams);
         int[] scores = student.InputScores();
-
-        // Create instance of StudentGradeCalculator1
-        var calculator = new StudentGradeCalculator1();
-
-        // Perform calculations
-        double average = calculator.CalculateAverageScore(scores);
-        string passOrFail = calculator.DeterminePassOrFail(average);
-        string grade = calculator.CalculateGrade(average);
-
-        // Display results
-        Console.WriteLine($"\nAverage Score: {average:F2}");
-        Console.WriteLine($"Result: {passOrFail}");
-        Console.WriteLine($"Grade: {grade}");
+        
+        // Create Examiner instance
+        Examiner examiner = new Examiner();
+        
+        // Examiner submits and evaluates the grade
+        examiner.SubmitGrade(student);
     }
 }

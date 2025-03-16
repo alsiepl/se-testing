@@ -3,7 +3,7 @@ using System;
 namespace TheStudent
 {
     
-    class Student
+    public class Student
     {
         public int[] student_scores;
         public int numExams;
