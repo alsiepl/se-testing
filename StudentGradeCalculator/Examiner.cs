@@ -24,11 +24,17 @@ namespace ExaminerNamespace
             double average = calculator.CalculateAverageScore(student.student_scores);
             string passOrFail = calculator.DeterminePassOrFail(average);
             string grade = calculator.CalculateGrade(average);
+            string rank = calculator.GetStudentRank(average);
+            int lowestScore = calculator.GetLowestScore(student.student_scores);
+            int highestScore = calculator.GetHighestScore(student.student_scores);
 
             Console.WriteLine("\nExaminer's Evaluation:");
             Console.WriteLine($"Average Score: {average:F2}");
             Console.WriteLine($"Result: {passOrFail}");
             Console.WriteLine($"Final Grade: {grade}");
+            Console.WriteLine($"Rank: {rank}");
+            Console.WriteLine($"Lowest score: {lowestScore}");
+            Console.WriteLine($"Highest score: {highestScore}");
         }
     }
 }

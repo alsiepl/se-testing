@@ -63,5 +63,37 @@ namespace StudentGradeCalculator
             if (averageScore >= 50) return "02";
             return "00";
         }
+
+        public string GetStudentRank(double averageScore)
+        {
+            if (averageScore < 0 || averageScore > 100)
+            {
+                throw new ArgumentOutOfRangeException("Average score must be between 0 and 100.");
+            }
+
+            if (averageScore >= 90) return "Top Performer!";
+            if (averageScore >= 75) return "Above Average";
+            if (averageScore >= 60) return "Average";
+            return "Needs improvement.";
+        }
+
+        public int GetHighestScore(int[] scores)
+        {
+            if (scores == null || scores.Length == 0)
+            {
+                throw new ArgumentException("Scores cannot be null or empty.");
+            }
+            return scores.Max();
+        }
+
+        public int GetLowestScore(int[] scores)
+        {
+            if (scores == null || scores.Length == 0)
+            {
+                throw new ArgumentException("Scores cannot be null or empty.");
+            }
+            return scores.Min();
+        }
+
     }
 }
