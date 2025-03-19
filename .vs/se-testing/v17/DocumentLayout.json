@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|c:\\users\\ksuch\\source\\repos\\se-testing\\se-testing\\studentgradecalculatortest\\studentcalculatortest\\getstudentranktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|solutionrelative:studentgradecalculatortest\\studentcalculatortest\\getstudentranktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|c:\\users\\ksuch\\source\\repos\\se-testing\\se-testing\\studentgradecalculatortest\\studentcalculatortest\\functionaltestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|solutionrelative:studentgradecalculatortest\\studentcalculatortest\\functionaltestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D0128EE-51AD-56F2-9055-6B643E2F6750}|StudentGradeCalculator\\StudentGradeCalculator.csproj|c:\\users\\ksuch\\source\\repos\\se-testing\\se-testing\\studentgradecalculator\\studentgradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D0128EE-51AD-56F2-9055-6B643E2F6750}|StudentGradeCalculator\\StudentGradeCalculator.csproj|solutionrelative:studentgradecalculator\\studentgradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|c:\\users\\ksuch\\source\\repos\\se-testing\\se-testing\\studentgradecalculatortest\\studentcalculatortest\\unittests_gethighestscoretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|solutionrelative:studentgradecalculatortest\\studentcalculatortest\\unittests_gethighestscoretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|c:\\users\\ksuch\\source\\repos\\se-testing\\se-testing\\studentgradecalculatortest\\studentcalculatortest\\gethighestscoretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|solutionrelative:studentgradecalculatortest\\studentcalculatortest\\gethighestscoretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|c:\\users\\ksuch\\source\\repos\\se-testing\\se-testing\\studentgradecalculatortest\\studentcalculatortest\\unittests_getlowestscoretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E5EC2-8EE1-2F41-777F-14CF7DC037D7}|StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj|solutionrelative:studentgradecalculatortest\\studentcalculatortest\\unittests_getlowestscoretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 21,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionalTestCases.cs",
+              "DocumentMoniker": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\FunctionalTestCases.cs",
+              "RelativeDocumentMoniker": "StudentGradeCalculatorTest\\StudentCalculatorTest\\FunctionalTestCases.cs",
+              "ToolTip": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\FunctionalTestCases.cs",
+              "RelativeToolTip": "StudentGradeCalculatorTest\\StudentCalculatorTest\\FunctionalTestCases.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwEQBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:02:00.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTests_GetLowestScoreTests.cs",
+              "DocumentMoniker": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetLowestScoreTests.cs",
+              "RelativeDocumentMoniker": "StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetLowestScoreTests.cs",
+              "ToolTip": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetLowestScoreTests.cs",
+              "RelativeToolTip": "StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetLowestScoreTests.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:15:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTests_GetHighestScoreTests.cs",
+              "DocumentMoniker": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetHighestScoreTests.cs",
+              "RelativeDocumentMoniker": "StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetHighestScoreTests.cs",
+              "ToolTip": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetHighestScoreTests.cs",
+              "RelativeToolTip": "StudentGradeCalculatorTest\\StudentCalculatorTest\\UnitTests_GetHighestScoreTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:15:48.547Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -51,45 +90,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetHighestScoreTests.cs",
-              "DocumentMoniker": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\GetHighestScoreTests.cs",
-              "RelativeDocumentMoniker": "StudentGradeCalculatorTest\\StudentCalculatorTest\\GetHighestScoreTests.cs",
-              "ToolTip": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\GetHighestScoreTests.cs",
-              "RelativeToolTip": "StudentGradeCalculatorTest\\StudentCalculatorTest\\GetHighestScoreTests.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:10:50.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentGradeCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.cs",
-              "RelativeDocumentMoniker": "StudentGradeCalculator\\StudentGradeCalculator.cs",
-              "ToolTip": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.cs",
-              "RelativeToolTip": "StudentGradeCalculator\\StudentGradeCalculator.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:08:47.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetStudentRankTests.cs",
-              "DocumentMoniker": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\GetStudentRankTests.cs",
-              "RelativeDocumentMoniker": "StudentGradeCalculatorTest\\StudentCalculatorTest\\GetStudentRankTests.cs",
-              "ToolTip": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\GetStudentRankTests.cs",
-              "RelativeToolTip": "StudentGradeCalculatorTest\\StudentCalculatorTest\\GetStudentRankTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:08:04.487Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {}
+    "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {
+    "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
         "projectName": "StudentGradeCalculator",
-        "projectPath": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
-        "packagesPath": "C:\\Users\\alans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\obj\\",
+        "projectPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
+        "packagesPath": "C:\\Users\\ksuch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ksuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
