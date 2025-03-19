@@ -959,33 +959,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/lajoskariko/.nuget/packages/": {}
+    "C:\\Users\\alans\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculatorTest/StudentCalculatorTest/StudentCalculatorTest.csproj",
+      "projectUniqueName": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj",
       "projectName": "StudentCalculatorTest",
-      "projectPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculatorTest/StudentCalculatorTest/StudentCalculatorTest.csproj",
-      "packagesPath": "/Users/lajoskariko/.nuget/packages/",
-      "outputPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculatorTest/StudentCalculatorTest/obj/",
+      "projectPath": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj",
+      "packagesPath": "C:\\Users\\alans\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/lajoskariko/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/StudentGradeCalculator.csproj": {
-              "projectPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/StudentGradeCalculator.csproj"
+            "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {
+              "projectPath": "C:\\Users\\alans\\Desktop\\SE\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj"
             }
           }
         }
@@ -1039,7 +1045,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
