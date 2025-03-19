@@ -1,6 +1,4 @@
-﻿using System;
-using Xunit;
-using StudentGradeCalculator; // Ensure this points to the correct namespace
+﻿using StudentGradeCalculator; // Ensure this points to the correct namespace
 
 public class StudentGradeCalculatorTests5
 {

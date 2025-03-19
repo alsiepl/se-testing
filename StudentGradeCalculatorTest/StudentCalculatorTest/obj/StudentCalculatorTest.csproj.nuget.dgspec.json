@@ -1,40 +1,94 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj": {}
+    "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculatorTest/StudentCalculatorTest/StudentCalculatorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj": {
+    "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj",
-        "projectName": "StudentCalculatorTest",
-        "projectPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\StudentCalculatorTest.csproj",
-        "packagesPath": "C:\\Users\\ksuch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculatorTest\\StudentCalculatorTest\\obj\\",
+        "projectUniqueName": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj",
+        "projectName": "StudentGradeCalculator",
+        "projectPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj",
+        "packagesPath": "/Users/lajoskariko/.nuget/packages/",
+        "outputPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ksuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lajoskariko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculatorTest/StudentCalculatorTest/StudentCalculatorTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculatorTest/StudentCalculatorTest/StudentCalculatorTest.csproj",
+        "projectName": "StudentCalculatorTest",
+        "projectPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculatorTest/StudentCalculatorTest/StudentCalculatorTest.csproj",
+        "packagesPath": "/Users/lajoskariko/.nuget/packages/",
+        "outputPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculatorTest/StudentCalculatorTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lajoskariko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {
-                "projectPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj"
+              "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj": {
+                "projectPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj"
               }
             }
           }
@@ -88,73 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
-        "projectName": "StudentGradeCalculator",
-        "projectPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
-        "packagesPath": "C:\\Users\\ksuch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ksuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net9.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

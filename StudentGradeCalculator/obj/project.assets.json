@@ -8,32 +8,25 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ksuch\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/lajoskariko/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
+      "projectUniqueName": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj",
       "projectName": "StudentGradeCalculator",
-      "projectPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
-      "packagesPath": "C:\\Users\\ksuch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksuch\\source\\repos\\SE-Testing\\se-testing\\StudentGradeCalculator\\obj\\",
+      "projectPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/StudentGradeCalculator.csproj",
+      "packagesPath": "/Users/lajoskariko/.nuget/packages/",
+      "outputPath": "/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange2/StudentGradeCalculator/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ksuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/lajoskariko/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -73,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

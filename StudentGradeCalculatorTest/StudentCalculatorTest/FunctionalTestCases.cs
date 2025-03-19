@@ -1,6 +1,4 @@
-﻿using System;
-using Xunit;
-using StudentGradeCalculator; // Ensure this points to the correct namespace
+﻿using StudentGradeCalculator; // Ensure this points to the correct namespace
 
 public class StudentGradeCalculatorTests1
 {
@@ -28,23 +26,23 @@ public class StudentGradeCalculatorTests1
         Assert.Equal(60.0, result);  // Assert that the result is 60.0
     }
 
+    // Negative Test Case: Empty score list should throw error
+    [Fact]
+    public void CalculateAverageScore_EmptyScores_ThrowsArgumentException()
+    {
+        // Arrange
+        int[] scores = { };
+
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => _calculator.CalculateAverageScore(scores));
+    }
+    
     // Negative Test Case: Null input
     [Fact]
     public void CalculateAverageScore_NullScores_ThrowsArgumentException()
     {
         // Arrange
         int[] scores = null!;
-
-        // Act & Assert
-        Assert.Throws<ArgumentException>(() => _calculator.CalculateAverageScore(scores));
-    }
-
-    // Negative Test Case: Empty array
-    [Fact]
-    public void CalculateAverageScore_EmptyScores_ThrowsArgumentException()
-    {
-        // Arrange
-        int[] scores = { };
 
         // Act & Assert
         Assert.Throws<ArgumentException>(() => _calculator.CalculateAverageScore(scores));
@@ -60,16 +58,30 @@ public class StudentGradeCalculatorTests1
         // Act & Assert
         Assert.Throws<ArgumentOutOfRangeException>(() => _calculator.CalculateAverageScore(scores));
     }
-
+    
     // Negative Test Case: Scores outside the valid range (negative scores)
     [Fact]
     public void CalculateAverageScore_NegativeScore_ThrowsArgumentOutOfRangeException()
     {
         // Arrange
-        int[] scores = { -10, 50, 60 };
+        int[] scores = { 80, -10, 90, 70 };
 
         // Act & Assert
         Assert.Throws<ArgumentOutOfRangeException>(() => _calculator.CalculateAverageScore(scores));
+    }
+    
+    // Edge Case: Single score should still be processed correctly
+    [Fact]
+    public void CalculateAverageScore_SingleScore_ReturnsSameValue()
+    {
+        // Arrange
+        int[] scores = { 75 };
+        
+        // Act
+        double result = _calculator.CalculateAverageScore(scores);
+        
+        // Assert
+        Assert.Equal(75, result);
     }
 
     // Edge Case: Min and Max values (0 and 100)
@@ -180,13 +192,13 @@ public class StudentGradeCalculatorTests1
         // Assert
         Assert.Equal("Pass", result);  // Assert that the result is "Pass"
     }
-
+    
     // Edge Case: Just below the pass threshold
     [Fact]
     public void DeterminePassOrFail_BelowPassThreshold_ReturnsFail()
     {
         // Arrange
-        double averageScore = 59.9;
+        double averageScore = 59.99;
 
         // Act
         string result = _calculator.DeterminePassOrFail(averageScore);
@@ -337,6 +349,28 @@ public class StudentGradeCalculatorTests1
         // Assert
         Assert.Equal(30, result);  // Assert that the lowest score is 30
     }
+    
+    // Negative Test Case: Null input
+    [Fact]
+    public void GetLowestScore_NullScores_ThrowsArgumentException()
+    {
+        // Arrange
+        int[] scores = null!;
+
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => _calculator.GetLowestScore(scores));
+    }
+
+    // Negative Test Case: Empty array
+    [Fact]
+    public void GetLowestScore_EmptyScores_ThrowsArgumentException()
+    {
+        // Arrange
+        int[] scores = { };
+
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => _calculator.GetLowestScore(scores));
+    }
 
     // Edge Case: All scores are the same
     [Fact]
@@ -395,7 +429,29 @@ public class StudentGradeCalculatorTests1
         // Assert
         Assert.Equal(90, result);  // Assert that the highest score is 90
     }
+    
+    // Negative Test Case: Null input
+    [Fact]
+    public void GetHighestScore_NullScores_ThrowsArgumentException()
+    {
+        // Arrange
+        int[] scores = null!;
 
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => _calculator.GetHighestScore(scores));
+    }
+
+    // Negative Test Case: Empty array
+    [Fact]
+    public void GetHighestScore_EmptyScores_ThrowsArgumentException()
+    {
+        // Arrange
+        int[] scores = { };
+
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => _calculator.GetHighestScore(scores));
+    }
+    
     // Edge Case: All scores are the same
     [Fact]
     public void GetHighestScore_AllSameScores_ReturnsThatScore()
@@ -422,28 +478,19 @@ public class StudentGradeCalculatorTests1
 
         // Assert
         Assert.Equal(100, result);  // The highest value should be 100
-    }   
-
-    // Negative Test Case: Null input
+    }
+    
+    // Edge Case: Scores already in sorted order (Decending)
     [Fact]
-    public void GetHighestScore_NullScores_ThrowsArgumentException()
+    public void GetHighestScore_SortedDescending_ReturnsFirstElement()
     {
         // Arrange
-        int[] scores = null!;
+        int[] scores = { 50, 40, 30, 20, 10 };
 
-        // Act & Assert
-        Assert.Throws<ArgumentException>(() => _calculator.GetHighestScore(scores));
+        // Act
+        int result = _calculator.GetHighestScore(scores);
+
+        // Assert
+        Assert.Equal(50, result);
     }
-
-    // Negative Test Case: Empty array
-    [Fact]
-    public void GetHighestScore_EmptyScores_ThrowsArgumentException()
-    {
-        // Arrange
-        int[] scores = { };
-
-        // Act & Assert
-        Assert.Throws<ArgumentException>(() => _calculator.GetHighestScore(scores));
-    }
-
 }

@@ -1,6 +1,3 @@
-using Xunit;
-using System;
-using System.IO;
 using TheStudent;
 
 namespace TheStudentTests
