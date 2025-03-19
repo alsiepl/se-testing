@@ -1,7 +1,4 @@
-﻿﻿using System;
-using TheStudent;
-
-namespace StudentGradeCalculator
+﻿namespace StudentGradeCalculator
 {
     public class StudentGradeCalculator1
     {

@@ -1,6 +1,4 @@
-using System;
 using TheStudent;
-using StudentGradeCalculator;
 using ExaminerNamespace;
 
 class Program

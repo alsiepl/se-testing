@@ -42,18 +42,33 @@ C:/Users/alans/Desktop/SE/se-testing/StudentGradeCalculator/obj/Debug/net9.0/ref
 /Users/lajoskariko/Documents/4th Semester/TA Job/Testing example/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.pdb
 /Users/lajoskariko/Documents/4th Semester/TA Job/Testing example/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.genruntimeconfig.cache
 /Users/lajoskariko/Documents/4th Semester/TA Job/Testing example/StudentGradeCalculator/obj/Debug/net9.0/ref/StudentGradeCalculator.dll
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\bin\Debug\net9.0\StudentGradeCalculator.exe
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\bin\Debug\net9.0\StudentGradeCalculator.deps.json
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\bin\Debug\net9.0\StudentGradeCalculator.runtimeconfig.json
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\bin\Debug\net9.0\StudentGradeCalculator.dll
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\bin\Debug\net9.0\StudentGradeCalculator.pdb
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.AssemblyInfoInputs.cache
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.AssemblyInfo.cs
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.csproj.CoreCompileInputs.cache
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.sourcelink.json
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.dll
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\refint\StudentGradeCalculator.dll
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.pdb
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\StudentGradeCalculator.genruntimeconfig.cache
-C:\Users\ksuch\source\repos\SE-Testing\se-testing\StudentGradeCalculator\obj\Debug\net9.0\ref\StudentGradeCalculator.dll
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.exe
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.deps.json
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.runtimeconfig.json
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.dll
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.pdb
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.AssemblyInfo.cs
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.sourcelink.json
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.dll
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/refint/StudentGradeCalculator.dll
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.pdb
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.genruntimeconfig.cache
+C:/Users/ksuch/source/repos/SE-Testing/se-testing/StudentGradeCalculator/obj/Debug/net9.0/ref/StudentGradeCalculator.dll
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.deps.json
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.runtimeconfig.json
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.dll
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/bin/Debug/net9.0/StudentGradeCalculator.pdb
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.AssemblyInfo.cs
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.sourcelink.json
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.dll
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/refint/StudentGradeCalculator.dll
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.pdb
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/StudentGradeCalculator.genruntimeconfig.cache
+/Users/lajoskariko/Documents/4th Semester/TA Job/Finalchange/StudentGradeCalculator/obj/Debug/net9.0/ref/StudentGradeCalculator.dll
